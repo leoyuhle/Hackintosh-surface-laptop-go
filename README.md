@@ -2,24 +2,14 @@ Microsoft Surface Laptop Go hackintosh, this is only for personal use, do it as 
 
 1.Hardware as below:
 
-CPU: Intel i5-1035G1 (Icelake)
-GPU: Intel UHD Graphics (Iris Plus Graphics G1)
-RAM: 16GB
-Wifi: Intel 6 
-Audio: Intel Ice Lake-LP Smart Sound
-Touchpad: ELAN
-SSD: Replaced with SN740 512GB
+![image](https://github.com/user-attachments/assets/3f3a1cd6-5f77-4614-af89-525fdd6e7b8b)
+
 
 2.What's working:
-WiFi	
-Bluetooth
-Sleep	working with boot arg igfxfw=2
-Touchpad/TouchScreen/Keyboard
-Graphics
-Sound
-Screen
-Power Management
+
+![image](https://github.com/user-attachments/assets/b3efd96a-5584-4631-8fa9-b207f462c04f)
+
 
 3.Issues to be fixed
-Type-C to display
 
+Type-C to display
